@@ -3,18 +3,20 @@
 
     <item
         android:id="@+id/home"
+        android:title="Home"
         android:icon="@drawable/ic_baseline_home_24"
-        android:title="Home"/>
+        />
 
     <item
         android:id="@+id/emoji"
+        android:title="Emojis"
         android:icon="@drawable/ic_baseline_emoji_events_24"
-        android:title="Emojis"/>
+        />
 
     <item
         android:id="@+id/coffee"
-        android:icon="@drawable/ic_baseline_local_cafe_24"
         android:title="Coffee"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
         />
 
 
